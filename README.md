@@ -53,8 +53,8 @@ wildlife-detection/
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/wildlife-detection.git
-cd wildlife-detection
+git clone [https://github.com/<your-username>/wildlife-detection.git
+cd wildlife-detection](https://github.com/AryanVarmora/WildEye.git)
 
 Download the Snapshot Serengeti dataset and place the images in data/images/.
 
